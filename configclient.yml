@@ -2,6 +2,6 @@ common:
   other: zhangsan
 ---
 spring:
-  profile: pre
+  profiles: pre
 common:
   other: lisi
