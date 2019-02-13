@@ -1,0 +1,7 @@
+common:
+  other: zhangsan
+---
+spring:
+  profile: pre
+common:
+  other: lisi
