@@ -1,0 +1,4 @@
+spring:
+  profiles: one
+common:
+  zhou: 111111
